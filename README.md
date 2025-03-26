@@ -12,4 +12,4 @@ Timezone: GMT+1
   <span style="font-size: 22px; font-weight: bold;">100%</span>
 </div>
 
-You can also play my Snake game here: [Play Snake Game](https://ghost0dev.github.io/snake_game.html)
+
