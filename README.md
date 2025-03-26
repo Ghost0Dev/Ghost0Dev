@@ -1,62 +1,9 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ghost0Dev's GitHub</title>
-    <style>
-        body {
-            background-color: #2e2e2e;
-            color: white;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 0;
-        }
+Hi 👋! My name is Ghost0Dev and I'm a developer from Germany 🇩🇪
 
-        h1 {
-            font-size: 2.5em;
-            margin-top: 50px;
-        }
+Timezone: GMT+1
 
-        p {
-            font-size: 1.2em;
-            margin-bottom: 20px;
-        }
+<div style="display: flex; align-items: center; background: #1e1e1e; color: white; padding: 10px; border-radius: 10px; font-family: Arial, sans-serif;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="25" height="25" style="margin-right: 8px;">
+  <span style="font-size: 20px; font-weight: bold;">100%</span>
+</div>
 
-        .skill-box {
-            display: flex;
-            align-items: center;
-            background: #1e1e1e;
-            color: white;
-            padding: 15px;
-            border-radius: 10px;
-            font-family: Arial, sans-serif;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-            max-width: 250px;
-            margin: 20px auto;
-        }
-
-        .skill-box img {
-            margin-right: 10px;
-        }
-
-        .skill-box span {
-            font-size: 22px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Hi 👋! My name is Ghost0Dev</h1>
-    <p>I'm a developer from Germany 🇩🇪</p>
-    <p>Timezone: GMT+1</p>
-
-    <div class="skill-box">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30">
-        <span>100%</span>
-    </div>
-
-</body>
-</html>
