@@ -9,7 +9,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Ghost0Dev/Ghost0Dev/refs/heads/main/snake.yml" alt="Snake animation" />
-
-###
