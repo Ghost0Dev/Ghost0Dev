@@ -1,6 +1,6 @@
 # Ghost0Dev
 
-## Hello, I'm Ghost0Dev! 👋
+## Hello, I'm Ghost0Dev! 
 
 ### Social:
 
