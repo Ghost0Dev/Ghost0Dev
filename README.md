@@ -1,40 +1,48 @@
-# Ghost0Dev
+<h1 align="center">Ghost0Dev 🌙</h1>
 
-## Hello, I'm Ghost0Dev! 
+---
 
-### Social:
+### 🌌 Socials
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white)][website]
 
-[<img align="left" alt="raphi.muc | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+---
 
-<br />
+### 🌙 Languages
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>  
+<code><img height="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"></code> *(Learning)*
 
-### Languages:
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghost0dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
+</p>
 
-<br />
+---
 
-### About Me:
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" alt="Top Languages" />
+</p>
 
-[<button>Website</button>][website] 
-<br />
+---
 
+### Uhh...
+<p align="center">
+  <!-- Option 1: Besucherzähler -->
+  <img src="https://komarev.com/ghpvc/?username=ghost0dev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views"/>
 
-<br />
+  <!-- Option 2: Snake Animation -->
+  <br>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
-### GitHub Stats:
+  <!-- Option 3: Kleine Nacht-Emoji-Reihe -->
+  <br>
+  🌙 
+</p>
 
-[<img align="left" src="https://github-readme-stats.vercel.app/api?username=ghost0dev&show_icons=true&theme=radical" alt="Ghost0Dev's GitHub Stats" />](https://github.com/ghost0dev)
+---
 
-<br />
-
-### Top Languages:
-
-[<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0dev&layout=compact&theme=radical" alt="Ghost0Dev's Top Languages" />](https://github.com/ghost0dev)
-
-<br />
-
-
-[tiktok]: https://www.tiktok.com/@raphi.muc
+[tiktok]: https://www.tiktok.com/@raphi.muc  
 [website]: https://guns.lol/raphimuc
