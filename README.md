@@ -29,6 +29,10 @@
 ---
 
 ### Uhh...
+
+<img src="https://camo.githubusercontent.com/028dbf1ba1837170aabcce752cbae507646485b9ddc35a45244a9520890dc946/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7562756e74752f453935343230" height="40" /> 
+
+
 <p align="center">
   <!-- Option 1: Besucherzähler -->
   <img src="https://komarev.com/ghpvc/?username=ghost0dev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views"/>
@@ -40,7 +44,6 @@
   <!-- Option 3: Kleine Nacht-Emoji-Reihe -->
   <br>
   🌙 
-</p>
 
 ---
 
