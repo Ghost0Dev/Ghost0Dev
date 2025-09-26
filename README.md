@@ -28,22 +28,28 @@
 
 ---
 
-### Uhh...
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" />
+</p>
 
-<img src="https://camo.githubusercontent.com/028dbf1ba1837170aabcce752cbae507646485b9ddc35a45244a9520890dc946/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7562756e74752f453935343230" height="40" /> 
-
+--- 
 
 <p align="center">
-  <!-- Option 1: Besucherzähler -->
+  <!-- Option 1: Visitor Counter -->
   <img src="https://komarev.com/ghpvc/?username=ghost0dev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views"/>
 
   <!-- Option 2: Snake Animation -->
   <br>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
-  <!-- Option 3: Kleine Nacht-Emoji-Reihe -->
+  <!-- Option 3: Small Night Emoji Row -->
   <br>
   🌙 
+</p>
 
 ---
 
