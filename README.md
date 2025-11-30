@@ -56,4 +56,4 @@
 ---
 
 [tiktok]: https://www.tiktok.com/@raphi.muc  
-[website]: https://guns.lol/raphimuc
+[website]: https://n0ctaaa.vercel.app/
