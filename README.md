@@ -56,4 +56,4 @@
 ---
 
 [tiktok]: https://www.tiktok.com/@raphi.muc  
-[website]: https://n0ctaaa.vercel.app/
+[website]: https://n0c.one
