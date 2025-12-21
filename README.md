@@ -6,14 +6,6 @@
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white)][website]
 
 ---
-### 🌙 Languages
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python"></code>  
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png" alt="Lua"></code> **(Only a little bit)**
-
-<code><img height="35" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"></code> **(Learning)**
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -30,8 +22,8 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" />
