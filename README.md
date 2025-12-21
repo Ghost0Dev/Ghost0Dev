@@ -3,7 +3,6 @@
 ---
 
 ### 🌌 Socials
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white)][tiktok]
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white)][website]
 
 ---
@@ -55,5 +54,4 @@
 
 ---
 
-[tiktok]: https://www.tiktok.com/@raphi.muc  
 [website]: https://n0c.one
