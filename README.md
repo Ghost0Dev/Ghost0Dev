@@ -1,47 +1,43 @@
-<h1 align="center">Ghost0Dev </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:1d81aa,33:2b4eac,66:3a8f9f,100:60a18f&text=Ghost0Dev&fontColor=ffffff&textBg=false&section=header" width="100%" />
+</p>
 
-### Socials
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?&style=for-the-badge&logo=About.me&logoColor=white)][website]
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Reverse+Engineer&font=Fira+Code&center=true&width=350&height=50&color=FFFFFF&vCenter=true&pause=2000&size=20" alt="Ghost0Dev" />
+</p>
+
+<p align="center">
+  <a href="https://n0c.one">
+    <img src="https://img.shields.io/badge/Website-n0c.one-2b99fb?style=for-the-badge" alt="Website" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ghost0dev&label=Profile%20Views&color=2b99fb&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
-### GitHub Stats
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,cpp,python,vscode,visualstudio&theme=dark" alt="Tech Stack" />
+</p>
+
+---
+
+<h3 align="center">Analytics</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ghost0dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&langs_count=5" alt="Top Languages" />
 </p>
 
 ---
 
-### Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost0dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&langs_count=100" alt="Top Languages" />
-</p>
-
----
+<h3 align="center">Contributions</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
-
---- 
-
-<p align="center">
-  <!-- Option 1: Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ghost0dev&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views"/>
-
-  <!-- Option 2: Snake Animation -->
-  <br>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-  <!-- Option 3: Small Night Emoji Row -->
-  <br>
-  :)
-</p>
-
----
-
-[website]: https://n0c.one
